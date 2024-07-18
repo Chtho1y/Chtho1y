@@ -4,7 +4,7 @@
 
 🔥 **Focus Areas**: Interdisciplinary Studies, AIGC, XR, Spatial Design, Brand Design, Developer & Designer Community
 
-🚗 **Projects**: Shanghai Xidu Park, Kunshan Summer Drive Riverside Park, Luoyang Water Park, Earth Open Source Project, get Intelligent Writing, Intelligent Design Courses, Mixlab Unbounded Community, AR cut&paste Open Source Project. Over 100 design projects as a programmer.
+🚗 **Projects**: Shanghai DiShuiHu Park, LuShan Summer Drive Riverside Park, JiuJiang Water Park, Earth Open Source Project, get Intelligent Writing, Intelligent Design Courses, UnitMagiclab Unbounded Community, AR cut&paste Open Source Project. Over 100 design projects as a programmer.
 
 🌞 **Industry Experience**: Real Estate, Finance, Internet, Education, Urban Construction. Two entrepreneurial experiences.
 
