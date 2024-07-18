@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-👨 I'm Chtholy, Xu (徐望乔), an innovator, design hacker, programmer, and designer. Partner and COO at SakuraBand(ShangHai) Technology, founder of Mixlab Unbounded Community, and initiator of the AGIUI organization. I studied at Fudan University and am currently on a leave of absence to pursue entrepreneurship.
+👨 I'm Chtholy, Xu (徐望乔), an innovator, design hacker, programmer, and designer. Partner and COO at SakuraBand Technology, founder of Mixlab Unbounded Community, and initiator of the AGIUI organization. I studied at Fudan University and am currently on a leave of absence to pursue entrepreneurship.
 
 🔥 **Focus Areas**: Interdisciplinary Studies, AIGC, XR, Spatial Design, Brand Design, Developer & Designer Community
 
