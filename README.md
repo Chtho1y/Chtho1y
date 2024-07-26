@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-👨 I'm Chtholy, Xu (徐望乔), an innovator, design hacker, programmer, and designer. Partner and CEO at Keduori Technology, founder of UnitMagiclab Infinite Unbounded Community, and initiator of the AGIUnit organization. I studied at Fudan University computer science major and am currently on a leave of absence to pursue entrepreneurship.
+👨 I'm Chtholy, Xu (徐望乔), an innovator, design hacker, programmer, and designer. Partner and CEO at WorldFlow Technology Limited, founder of UniteMagiclab Infinite Unbounded Community, and initiator of the AGIUnit organization. I studied at Fudan University computer science major and am currently on a leave of absence to pursue entrepreneurship.
 
 🔥 **Focus Areas**: Interdisciplinary Studies, AIGC, XR, Spatial Design, Brand Design, Developer & Designer Community
 
