@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-👨 I'm Chtholy, an innovator, design hacker, programmer, and designer. Partner and CEO at WorldFlow Technology Limited, founder of Magiclab Infinite Unbounded Community, and initiator of the AGIUnite organization. I studied at Fudan University computer science major and am currently on a leave of absence to pursue entrepreneurship.
+👨 I'm Chtholy, an innovator, design hacker, programmer, and designer. Partner and CEO at WorldFlow Technology Limited, founder of NexusAI Infinite Unbounded Community, and initiator of the AGI Unite organization. I studied at Fudan University computer science major and am currently on a leave of absence to pursue entrepreneurship.
 
 🔥 **Focus Areas**: Interdisciplinary Studies, AIGC, XR, Spatial Design, Brand Design, Developer & Designer Community
 
