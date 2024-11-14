@@ -26,19 +26,16 @@ Hi there! My name is Chtho1y. I’m an innovator, design hacker, programmer, and
 > I’m actively pursuing the following initiatives:
 
 > - **Mix Universe Open Source Group (Metaverse)**  
-> - **Fighting Game Development Team** (Seeking like-minded creators!)  
+> - **ACG Game Development Team** (Seeking like-minded creators!)  
 > - **AI Creativity - Design Hacker Exhibition** (Curator)  
 > - **Mechanical Dog Creation** (Based on open source technologies)  
 > - **Cultural and Creative Product Design with Code** (e.g., T-shirts, cups)  
 > - **Personalized Sticker Generation System**  
 > - **Design-AI-Lab Iterations**  
-> - **AI-Generated Murder Mystery Scripts**  
-> - **"AI Design" Magazine** (Generated entirely by code)  
-> - **Sci-fi Style Generator**  
+> - **"AI Design" Magazine** (Generated entirely by code)   
 > - **Creative Video Generator**  
 > - **Illustration Creation for Novels**  
 > - **Comic Strip Generation**  
-> - **Crowd Generation**  
 > - **User-Specific Recommendation Algorithms**  
 > - Researching next-gen open source organizations and **parallel digital worlds**.
 
