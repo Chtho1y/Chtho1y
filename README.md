@@ -83,14 +83,4 @@ Here are some topics that I’m passionate about:
 
 ---
 
-## Technical Skills
-
-Below are the technologies I have experience with and am proficient in:
-
-- **Programming Languages**: Python, JavaScript, TypeScript, Bash  
-- **Virtualization**: VMware, Kubernetes, Docker/Docker Compose  
-- **Operating Systems**: Linux, Windows  
-
----
-
 Opinions expressed on this website are solely my own and do not represent those of my employers or collaborators.
