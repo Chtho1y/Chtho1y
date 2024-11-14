@@ -4,7 +4,7 @@ Hi there! My name is Chtho1y. I’m an innovator, design hacker, programmer, and
 
 ## 🔗 Contact Me
 
-[![X Badge](https://img.shields.io/badge/X-agi_engage-black?style=social&logo=x&logoColor=black&link=https%3A%2F%2Fx.com%2Fagi_engage)](https://x.com/agi_engage)
+[![X Badge](https://img.shields.io/badge/-agi%20engage-black?style=social&logo=x&logoColor=black&link=https%3A%2F%2Fx.com%2Fagi_engage)](https://x.com/agi_engage)
 ![WeChat Badge](https://img.shields.io/badge/Wechat-Chtho1y-green?style=social&logo=wechat&logoColor=green)
 [![Email Badge](https://img.shields.io/badge/Email-love.code%40163.com-red?style=social&logo=gmail&logoColor=red)](mailto:love.code@163.com)
 
