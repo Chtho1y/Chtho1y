@@ -4,29 +4,9 @@ Hi there! My name is Chtho1y. I’m an innovator, design hacker, programmer, and
 
 ## 🔗 Contact Me
 
-<div style="display: flex; gap: 10px; margin-top: 1rem;">
-  <!-- X.com -->
-  <a href="https://x.com/agi_engage" target="_blank" style="text-decoration: none;">
-    <div style="display: flex; align-items: center; border: 1px solid #ccc; border-radius: 5px; padding: 5px 10px; background-color: #f5f5f5;">
-      <span style="font-weight: bold;">X</span>
-    </div>
-  </a>
-
-  <!-- WeChat -->
-  <a href="#" style="text-decoration: none;">
-    <div style="display: flex; align-items: center; border: 1px solid #ccc; border-radius: 5px; padding: 5px 10px; background-color: #f5f5f5;">
-      <img src="https://img.icons8.com/ios-filled/20/000000/wechat.png" alt="WeChat" style="margin-right: 5px;">
-      <span>WeChat: Chtho1y</span>
-    </div>
-  </a>
-
-  <!-- Email -->
-  <a href="mailto:love.code@163.com" style="text-decoration: none;">
-    <div style="display: flex; align-items: center; border: 1px solid #ccc; border-radius: 5px; padding: 5px 10px; background-color: #f5f5f5;">
-      <span>Email</span>
-    </div>
-  </a>
-</div>
+[![X Badge](https://img.shields.io/badge/X-agi_engage-blue?style=social&logo=twitter&logoColor=blue&link=https%3A%2F%2Fx.com%2Fagi_engage)](https://x.com/agi_engage)
+![WeChat Badge](https://img.shields.io/badge/Wechat-Chtho1y-green?style=social&logo=wechat&logoColor=green)
+[![Email Badge](https://img.shields.io/badge/Email-love.code%40163.com-red?style=social&logo=gmail&logoColor=red)](mailto:love.code@163.com)
 
 ## 🚀 Professional Focus Areas
 
