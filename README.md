@@ -1,6 +1,6 @@
 # About Me
 
-Hi there! My name is Chtho1y. I’m an innovator, design hacker, programmer, and designer. I currently serve as the Partner and CEO of **WorldFlow Technology Limited**, and I'm also the founder of **NexusAI Infinite Unbounded Community** and the initiator of the **AGI Engage Organization**. Formerly a Computer Science student at **Fudan University**, I’m on a leave of absence to focus on entrepreneurship.
+  Hi there! My name is Chtho1y. I’m an innovator, design hacker, programmer, and designer. I currently serve as the Partner and CEO of **WorldFlow Technology Limited**, and I'm also the founder of **NexusAI Infinite Unbounded Community** and the initiator of the **AGI Engage Organization**. Formerly a Computer Science student at **Fudan University**, I’m on a leave of absence to focus on entrepreneurship.
 
 ## 🔗 Contact Me
 
