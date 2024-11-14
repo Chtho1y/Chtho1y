@@ -5,7 +5,6 @@ Hi there! My name is Chtho1y. I’m an innovator, design hacker, programmer, and
 ## 🔗 Contact Me
 
 - **WeChat**: Chtho1y  
-- **QQ**: 939526265  
 - **Email**: [love.code@163.com](mailto:love.code@163.com)  
 
 ## 🚀 Professional Focus Areas
