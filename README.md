@@ -4,8 +4,29 @@ Hi there! My name is Chtho1y. I’m an innovator, design hacker, programmer, and
 
 ## 🔗 Contact Me
 
-- **WeChat**: Chtho1y  
-- **Email**: [love.code@163.com](mailto:love.code@163.com)  
+<div style="display: flex; gap: 10px; margin-top: 1rem;">
+  <!-- X.com -->
+  <a href="https://x.com/agi_engage" target="_blank" style="text-decoration: none;">
+    <div style="display: flex; align-items: center; border: 1px solid #ccc; border-radius: 5px; padding: 5px 10px; background-color: #f5f5f5;">
+      <span style="font-weight: bold;">X</span>
+    </div>
+  </a>
+
+  <!-- WeChat -->
+  <a href="#" style="text-decoration: none;">
+    <div style="display: flex; align-items: center; border: 1px solid #ccc; border-radius: 5px; padding: 5px 10px; background-color: #f5f5f5;">
+      <img src="https://img.icons8.com/ios-filled/20/000000/wechat.png" alt="WeChat" style="margin-right: 5px;">
+      <span>WeChat: Chtho1y</span>
+    </div>
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:love.code@163.com" style="text-decoration: none;">
+    <div style="display: flex; align-items: center; border: 1px solid #ccc; border-radius: 5px; padding: 5px 10px; background-color: #f5f5f5;">
+      <span>Email</span>
+    </div>
+  </a>
+</div>
 
 ## 🚀 Professional Focus Areas
 
