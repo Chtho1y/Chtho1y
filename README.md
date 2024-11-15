@@ -2,6 +2,8 @@
 
 Hi there! My name is Chtho1y. I’m an innovator, design hacker, programmer, and designer. I currently serve as the Partner and CEO of **WorldFlow Technology Limited**, and I'm also the founder of **NexusAI Infinite Unbounded Community** and the initiator of the **AGI Engage Organization**. Formerly a Computer Science student at Fudan University, I’m on a leave of absence to focus on entrepreneurship.
 
+> I'm an effective accelerationist, a believer in the AGI arrival—and yes, Cursor is my go-to coding weapon.
+
 ## 🔗 Contact Me
 
 [![X Badge](https://img.shields.io/badge/-agi%20engage-black?style=social&logo=x&logoColor=black&link=https%3A%2F%2Fx.com%2Fagi_engage)](https://x.com/agi_engage)
