@@ -31,15 +31,13 @@ I’m actively pursuing the following initiatives:
 - **ACG Game Development Team** (Seeking like-minded creators!)  
 - **AI Creativity - Design Hacker Exhibition** (Curator)  
 - **Mechanical Dog Creation** (Based on open source technologies)  
-- **Cultural and Creative Product Design with Code** (e.g., T-shirts, cups)  
-- **Personalized Sticker Generation System**  
+- **Cultural and Creative Product Design with Code** (e.g., T-shirts, cups)   
 - **Design-AI-Lab Iterations**  
 - **"AI Design" Magazine** (Generated entirely by code)   
 - **Creative Video Generator**  
 - **Illustration Creation for Novels**  
 - **Comic Strip Generation**  
 - **User-Specific Recommendation Algorithms**  
-- Researching next-gen open source organizations and **parallel digital worlds**.
 
 ## 💬 Topics of Interest
 
@@ -52,6 +50,6 @@ Here are some topics that I’m passionate about:
 - 💧 Cross-Disciplinary Interviews  
 - 🚗 Metaverse Development  
 - ❄️ Entrepreneurial Opportunities  
-- Career Planning for Digital Creatives  
+- 🚩Career Planning for Digital Creatives  
 
 > Opinions expressed on this website are solely my own and do not represent those of my employers or collaborators.
