@@ -15,7 +15,7 @@ Hi there! My name is Chtho1y. I’m an innovator, design hacker, programmer, and
 - Interdisciplinary Studies  
 - AIGC (AI-Generated Content)  
 - XR (Extended Reality)  
-- Spatial Design  
+- Game Design  
 - Brand Design  
 - Developer & Designer Communities  
 
