@@ -21,7 +21,7 @@ Hi there! My name is Chtho1y. I’m an innovator, design hacker, programmer, and
 
 ## 🌟 Industry Experience
 
-With experience spanning **real estate**, **finance**, **internet**, **education**, and **urban construction**, I have a unique perspective on merging technology and creativity. I’ve been involved in two entrepreneurial ventures that allowed me to dive deeply into these industries.
+With experience spanning **gaming industry**, **finance**, **internet**, **education**, and **Embodied Intelligence**, I have a unique perspective on merging technology and creativity. I’ve been involved in two entrepreneurial ventures that allowed me to dive deeply into these industries.
 
 ## 💡 Current Ambitions
 
